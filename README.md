@@ -15,8 +15,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ryuu&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K4ryuu&show_icons=true&theme=radical)
 
-### Contact
-
 **Do you like my work or one of my plugins?**
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.me/sples1 "Donate")
