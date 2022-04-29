@@ -3,7 +3,7 @@
 ### About Me
 
 * DevOps Engineer
-* You can find my projects worldwide on CS:GO/TF2 servers or at bigger companies (softwares mostly)
+* You can find my projects worldwide on CS:GO/TF2 (mostly) servers or at bigger companies (softwares mostly)
 * Private requests are accepted through Discord or Email
 
 ### Contact
