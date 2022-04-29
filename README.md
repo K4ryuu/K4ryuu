@@ -21,6 +21,6 @@
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.me/sples1 "Donate")
 
-**### Contact**
+---
 
 ![Profile views](https://gpvc.arturio.dev/K4ryuu)
