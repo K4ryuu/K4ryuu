@@ -2,9 +2,9 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4yruu&theme=onedark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K4yruu&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ryuu&theme=onedark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K4ryuu&theme=onedark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=K4yruu&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=K4ryuu&theme=onedark)
 
 ---
 
