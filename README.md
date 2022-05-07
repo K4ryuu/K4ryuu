@@ -8,7 +8,7 @@
 
 ### Contact
 
-* Discord - Karyuu#7452
+* Discord - K4ryuu#7452
 * Email - karyuu@kitsune-lab.dev
 
 ---
