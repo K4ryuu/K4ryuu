@@ -4,7 +4,7 @@
 
 * DevOps Engineer
 * You can find my projects worldwide on CS:GO/TF2 (mostly) servers or at bigger companies (softwares mostly)
-* Private requests are accepted through Discord or Email
+* Private requests are accepted through Discord or Email. (SourcePawn or Software)
 
 ### Contact
 
