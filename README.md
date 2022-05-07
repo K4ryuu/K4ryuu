@@ -20,6 +20,8 @@
 * PayPal: paypal@kitsune-lab.dev
 * Patreon: https://www.patreon.com/kitsunelab
 
+**Also do not forget to give a ⭐ on my projects!**
+
 ---
 
 ![Profile views](https://gpvc.arturio.dev/K4ryuu)
