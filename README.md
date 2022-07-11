@@ -18,7 +18,6 @@
 **Do you like my work or one of my plugins?**
 
 * PayPal: paypal@kitsune-lab.dev
-* Patreon: https://www.patreon.com/kitsunelab
 
 **Also do not forget to give a ⭐ on my projects!**
 
