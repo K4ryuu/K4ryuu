@@ -1,1 +1,43 @@
-![Metrics](https://beta-metrics.lecoq.io/K4ryuu?template=terminal&base.community=0&languages=1&lines=1&fortune=1&people=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=4&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=0&lines.history.limit=500&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=12&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&fortune=false&config.timezone=Europe%2FBudapest&config.display=columns)
+# Welcome!
+
+### About Me
+
+* DevOps Engineer at a television hosting company
+* You can find my projects worldwide on CS:GO/TF2 (mostly) servers or at bigger companies (softwares mostly)
+* Private requests are accepted through Discord or Email. (websites, Windows sftwares or game based projects)
+
+### Stacks and Technlogoies
+
+        <---!---> FRONT-END
+        ➜ React.js (with/without TypeScript), C#
+
+        <---!---> BACK-END
+        ➜ NextJS, NodeJS, C++, C, Python, GoLang
+
+        <---!---> DATABASES
+        ➜ SQL, MySQL, PostgreSQL, MongoDB, SQLite
+
+        <---!---> GAME DEVELOPMENT
+        ➜ SourcePawn, Unity
+        
+        <---!---> OTHERS
+        ➜ Blender, Photoshop, AdobeXD, Docker, Adobe Premiere, Adobe Illustrator
+
+### Contact
+
+* Discord - K4ryuu#7452
+* Email - karyuu@kitsune-lab.dev
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ryuu&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K4ryuu&show_icons=true&theme=radical)
+
+**Do you like my work or one of my plugins?**
+
+* PayPal: paypal@kitsune-lab.dev
+
+**Also do not forget to give a ⭐ on my projects!**
+
+---
+
+![Profile views](https://gpvc.arturio.dev/K4ryuu)
