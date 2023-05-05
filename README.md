@@ -9,10 +9,10 @@
 ### Stacks and Technlogoies
 
         <---!---> FRONT-END
-        ➜ React.js (with/without TypeScript), C#
+        ➜ React.js (with/without TypeScript), C#, JavaScript
 
         <---!---> BACK-END
-        ➜ NextJS, NodeJS, C++, C, Python, GoLang
+        ➜ NextJS, NodeJS, C++, C, Python, GoLang, JavaScript
 
         <---!---> DATABASES
         ➜ SQL, MySQL, PostgreSQL, MongoDB, SQLite
