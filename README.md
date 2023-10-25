@@ -1,43 +1,24 @@
-# Welcome!
+# Hello, World! 🚀
 
 ### About Me
 
-* DevOps Engineer at a television hosting company
-* You can find my projects worldwide on CS:GO/TF2 (mostly) servers or at bigger companies (softwares mostly)
-* Private requests are accepted through Discord or Email. (websites, Windows sftwares or game based projects)
+👨‍💻 I immersed myself in the world of game development as a passionate hobbyist. I dedicated extensive effort to working on predominantly free projects for CS:GO and TF2, and my contributions were widely embraced by numerous game servers, leaving a significant impact on the Source Engine-based community.
 
-### Stacks and Technlogoies
+💼 Today, I've transitioned into the role of a DevOps Engineer at a television and radio station hosting company. In this role, I predominantly focus on software development and the maintenance of my projects.
 
-        <---!---> FRONT-END
-        ➜ React.js (with/without TypeScript), C#, JavaScript
+🌐 I'm not just a 9-to-5 developer; I'm committed to continuous growth. I'm always open to new opportunities, including paid requests, but even free ones, to expand my portfolio and leave a lasting legacy in the digital realm.
 
-        <---!---> BACK-END
-        ➜ NextJS, NodeJS, C++, C, Python, GoLang, JavaScript
+🏆 Proficient in a diverse range of technologies, I'm ever-eager to explore new horizons.
 
-        <---!---> DATABASES
-        ➜ SQL, MySQL, PostgreSQL, MongoDB, SQLite
+🌍 When I'm not coding, you'll find me exploring new destinations or enjoying underground raves in unconventional places.
 
-        <---!---> GAME DEVELOPMENT
-        ➜ SourcePawn, Unity
-        
-        <---!---> OTHERS
-        ➜ Blender, Photoshop, AdobeXD, Docker, Adobe Premiere, Adobe Illustrator
+💪 Proficient in:
+- 🖥️ **Front-End:** React, C#, JavaScript, HTML, CSS
+- 🌐 **Back-End:** Next.js, Node.js, PHP, C++, Python, SourcePawn
+- 💾 **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- 🛠️ **Other Skills:** Photoshop, Docker, Kubernetes, Swift, React Native
+- 🔍 **Low-Level Skills:** GoLang, VB
 
-### Contact
+### Connect with Me
 
-* Discord - K4ryuu#7452
-* Email - karyuu@kitsune-lab.dev
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ryuu&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K4ryuu&show_icons=true&theme=radical)
-
-**Do you like my work or one of my plugins?**
-
-* PayPal: paypal@kitsune-lab.dev
-
-**Also do not forget to give a ⭐ on my projects!**
-
----
-
-![Profile views](https://gpvc.arturio.dev/K4ryuu)
+📬 Let's collaborate and bring your ideas to life. Feel free to reach out on Discord: k4ryuu.
