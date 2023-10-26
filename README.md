@@ -12,7 +12,8 @@
 
 🌍 When I'm not coding, you'll find me exploring new destinations or enjoying underground raves in unconventional places.
 
-💪 Proficient in:
+### Proficient in:
+
 - 🖥️ **Front-End:** React, C#, JavaScript, HTML, CSS
 - 🌐 **Back-End:** Next.js, Node.js, PHP, C++, Python, SourcePawn
 - 💾 **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
