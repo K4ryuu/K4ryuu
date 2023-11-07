@@ -2,7 +2,7 @@
 
 ### About Me
 
-👨‍💻 I immersed myself in the world of game development as a passionate hobbyist. I dedicated extensive effort to working on predominantly free projects for CS:GO and TF2, and my contributions were widely embraced by numerous game servers, leaving a significant impact on the Source Engine-based community.
+👨‍💻 I immersed myself in the world of game development as a passionate hobbyist. I dedicated extensive effort to working on predominantly free projects for CS:GO/CS2 and TF2, and my contributions were widely embraced by numerous game servers, leaving a significant impact on the Source Engine-based community.
 
 💼 Today, I've transitioned into the role of a DevOps Engineer at a television and radio station hosting company. In this role, I predominantly focus on software development and the maintenance of my projects.
 
@@ -13,11 +13,11 @@
 🌍 When I'm not coding, you'll find me exploring new destinations or enjoying underground raves in unconventional places.
 
 ### Proficient in:
-
 - 🖥️ **Front-End:** React, C#, JavaScript, HTML, CSS
 - 🌐 **Back-End:** Next.js, Node.js, PHP, C++, Python, SourcePawn
 - 💾 **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- 🛠️ **Other Skills:** Photoshop, Docker, Kubernetes, Swift, React Native
+- 🛠️ **Dockerization:** Docker, Kubernetes
+- 🌟 **Other Skills:** Photoshop, Swift, React Native
 - 🔍 **Low-Level Skills:** GoLang, VB
 
 ### Connect with Me
