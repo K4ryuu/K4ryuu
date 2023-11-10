@@ -32,6 +32,8 @@ I offer various ways to support my journey:
 
 Your support keeps my creative engine running and allows me to share knowledge with the community. Thanks for being part of my journey.
 
+BTC Wallet: bc1qfkzpn27uwuca73ttawncufyvxtg94wv3pv8tq9
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/k4ryuu">
 <img src="https://img.buymeacoffee.com/button-api/?text=Support My Work&emoji=☕&slug=k4ryuu&button_colour=FF5F5F&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
