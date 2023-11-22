@@ -42,4 +42,4 @@ BTC Wallet: bc1qfkzpn27uwuca73ttawncufyvxtg94wv3pv8tq9
 
 ## Connect with Me
 
-📬 Let's collaborate and bring your ideas to life. Feel free to reach out on Discord: [Discord Server](https://discord.gg/peBZpwgMHb)https://discord.gg/peBZpwgMHb
+📬 Let's collaborate and bring your ideas to life. Feel free to reach out on Discord: [Discord Server](https://discord.gg/peBZpwgMHb)
