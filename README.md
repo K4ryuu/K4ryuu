@@ -6,11 +6,11 @@
 
 ## What I Do
 
-- **Front-End Development:** React, C#, JavaScript, HTML, CSS
-- **Back-End Development:** Next.js, Node.js, PHP, C++, Python, SourcePawn
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- **DevOps:** Docker, Kubernetes
-- **Additional Skills:** Swift, React Native, GoLang, VB, Unreal Engine
+**Front-End Development:** React | C# | JavaScript | HTML | CSS  
+**Back-End Development:** Next.js | Node.js | PHP | C++ | Python | SourcePawn  
+**Databases:** MySQL | PostgreSQL | MongoDB | SQLite  
+**DevOps:** Docker | Kubernetes  
+**Additional Skills:** Swift | React Native | GoLang | VB | Unreal Engine | Nginx
 
 ## Support & Connect
 
