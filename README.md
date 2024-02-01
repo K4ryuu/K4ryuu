@@ -21,6 +21,4 @@
 
 ---
 
-✨ **Let's innovate, create, and make the digital world more exciting together!** ✨
-
 [Discord](https://discord.gg/peBZpwgMHb) | [PayPal](https://paypal.me/k4ryuu) | [Revolut](https://revolut.me/k4ryuu) | [BuyMeACoffee](https://www.buymeacoffee.com/k4ryuu)
