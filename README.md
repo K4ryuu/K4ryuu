@@ -1,45 +1,28 @@
-# Welcome to My Code Wonderland! 🚀
+# Welcome to My Code Wonderland! 🎮👨‍💻
 
-## About Me
+## Who Am I?
 
-👨‍💻 I'm a passionate game developer who has delved deep into the world of CS:GO/CS2 and TF2 modding. My contributions have left an indelible mark on some Source Engine-based communities.
+- **Game Developer & Modder as Hobby** | **DevOps Engineer** at a Government Agency
+- Passionate about **technology**, **continuous learning**, and **digital creativity**
+- Explorer of **new destinations** and **underground raves**
 
-💼 Currently, I'm rocking the role of a DevOps Engineer at a leading television and radio station hosting company. My days are filled with software development and nurturing my digital projects.
+## What I Do
 
-🌐 I'm not just a 9-to-5 coder; I'm on a perpetual quest for growth. I'm open to both paid and unpaid opportunities to expand my portfolio and create a lasting digital legacy.
+- **Front-End Development:** React, C#, JavaScript, HTML, CSS
+- **Back-End Development:** Next.js, Node.js, PHP, C++, Python, SourcePawn
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- **DevOps:** Docker, Kubernetes
+- **Additional Skills:** Swift, React Native, GoLang, VB, Unreal Engine
 
-🏆 Proficient in a wide array of technologies, I'm always on the lookout for new horizons to explore.
+## Support & Connect
 
-🌍 When I'm not writing code, you'll find me exploring new destinations or dancing at underground raves in unconventional places.
+- **[Private Paid Jobs](https://www.buymeacoffee.com/k4ryuu/commissions):** Tailored solutions for your ideas.
+- **[Subscription Tiers](https://www.buymeacoffee.com/k4ryuu/membership):** Exclusive content and perks.
+- **[Buy Me a Coffee](https://www.buymeacoffee.com/k4ryuu):** Support my work with a one-time donation.
+- **[Paid Resources](https://www.buymeacoffee.com/k4ryuu/extras):** Access my premium tools and guides.
 
-## Proficient in:
+---
 
-- 🖥️ **Front-End:** React, C#, JavaScript, HTML, CSS
-- 🌐 **Back-End:** Next.js, Node.js, PHP, C++, Python, SourcePawn
-- 💾 **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- 🛠️ **Dockerization:** Docker, Kubernetes
-- 🌟 **Other Skills:** Photoshop, Swift, React Native
-- 🔍 **Low-Level Skills:** GoLang, VB
+✨ **Let's innovate, create, and make the digital world more exciting together!** ✨
 
-## Support My Work
-
-I offer various ways to support my journey:
-
-- 💬 **Request Private Paid Jobs:** Got a specific project in mind? Let's chat, and I'll provide a quote.
-- 🎁 **Subscribe to My Tiers:** Join one of my subscription tiers for exclusive benefits, early access to projects, and personalized support.
-- ☕ **Buy Me a Coffee:** One-time donations keep me motivated and my creativity flowing.
-- 💼 **Shop from My Paid Resources:** Explore and purchase resources I've crafted for private use.
-
-Your support keeps my creative engine running and allows me to share knowledge with the community. Thanks for being part of my journey.
-
-BTC Wallet: bc1qfkzpn27uwuca73ttawncufyvxtg94wv3pv8tq9
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/k4ryuu">
-<img src="https://img.buymeacoffee.com/button-api/?text=Support My Work&emoji=☕&slug=k4ryuu&button_colour=FF5F5F&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
-</p>
-
-## Connect with Me
-
-📬 Let's collaborate and bring your ideas to life. Feel free to reach out on Discord: [Discord Server](https://discord.gg/peBZpwgMHb)
+[Discord](https://discord.gg/peBZpwgMHb) | [PayPal](https://paypal.me/k4ryuu) | [Revolut](https://revolut.me/k4ryuu) | [BuyMeACoffee](https://www.buymeacoffee.com/k4ryuu)
