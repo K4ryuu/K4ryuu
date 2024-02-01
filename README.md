@@ -1,5 +1,3 @@
-# Welcome to My Code Wonderland! 🎮👨‍💻
-
 ## Who Am I?
 
 - **Game Developer & Modder as Hobby** | **DevOps Engineer** at a Government Agency
