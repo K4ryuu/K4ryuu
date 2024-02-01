@@ -6,7 +6,7 @@
 
 ## What I Do
 
-**Front-End Development:** React | C# | JavaScript | HTML | CSS  
+**Front-End Development:** React | C# | JavaScript | TypeScript | HTML | CSS  
 **Back-End Development:** Next.js | Node.js | PHP | C++ | Python | SourcePawn  
 **Databases:** MySQL | PostgreSQL | MongoDB | SQLite  
 **DevOps:** Docker | Kubernetes  
