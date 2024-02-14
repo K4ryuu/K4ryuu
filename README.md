@@ -15,8 +15,7 @@
 ## Support & Connect
 
 - **[Private Paid Jobs](https://www.buymeacoffee.com/k4ryuu/commissions):** Tailored solutions for your ideas.
-- **[Subscription Tiers](https://www.buymeacoffee.com/k4ryuu/membership):** Exclusive content and perks.
-- **[Buy Me a Coffee](https://www.buymeacoffee.com/k4ryuu):** Support my work with a one-time donation.
+- **[Buy Me a Coffee](https://www.buymeacoffee.com/k4ryuu):** Support my work with a one-time or monthly donation.
 - **[Paid Resources](https://www.buymeacoffee.com/k4ryuu/extras):** Access my premium stuff.
 
 ---
