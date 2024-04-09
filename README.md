@@ -20,4 +20,4 @@
 
 ---
 
-[Discord](https://discord.gg/peBZpwgMHb) | [PayPal](https://paypal.me/k4ryuu) | [Revolut](https://revolut.me/k4ryuu) | [BuyMeACoffee](https://www.buymeacoffee.com/k4ryuu)
+[Discord](https://discord.gg/mrkaH35FmQ) | [PayPal](https://paypal.me/k4ryuu) | [Revolut](https://revolut.me/k4ryuu) | [BuyMeACoffee](https://www.buymeacoffee.com/k4ryuu)
