@@ -50,3 +50,8 @@ Dynamic DevOps Engineer in my 20s, pursuing Software Engineering at university w
 [![Revolut](https://img.shields.io/badge/-Revolut-0075EB?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/k4ryuu)
 
 </div>
+
+---
+<div align="center">
+  <sub>Built with ❤️ by K4ryuu</sub>
+</div>
