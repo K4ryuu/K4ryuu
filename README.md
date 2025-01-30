@@ -1,5 +1,11 @@
 # Hello World! 👋 
 
+![GitHub User's stars](https://img.shields.io/github/stars/K4ryuu?style=for-the-badge&label=All%20Stars&affiliations=OWNER,ORGANIZATION_MEMBER)
+![GitHub User's stars](https://img.shields.io/github/stars/K4ryuu?style=for-the-badge&label=Profile%20Stars)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KitsuneLab-Development/K4-System/total?style=for-the-badge&label=Most%20Downloaded%20Project)
+
+
+
 ## 🧑‍💻 Who Am I?
 Dynamic DevOps Engineer in my 20s, pursuing Software Engineering at university while working as a DevOps Engineer at one of the largest companies in my country. In my free time, I enjoy modding games and contributing to open-source projects. Always eager to learn and embrace new challenges! 🚀
 
