@@ -52,7 +52,6 @@ Dynamic DevOps Engineer in my 20s, pursuing Software Engineering at university w
   
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kitsune-lab.com/aff/TFJFPE)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://kitsune-lab.com/p/discord)
-[![BuyMeACoffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://kitsune-lab.com/p/support)
 [![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/k4ryuu)
 [![Revolut](https://img.shields.io/badge/-Revolut-0075EB?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/k4ryuu)
 
