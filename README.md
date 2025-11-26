@@ -14,7 +14,7 @@ Dynamic full-stack dev in my 20s, crushing Software Engineering at uni while sli
 
 <div>
 
-## Connect With Me
+## Links
 
 <div align="center">
 
