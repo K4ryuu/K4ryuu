@@ -18,7 +18,7 @@ Dynamic full-stack dev in my 20s, crushing Software Engineering at uni while sli
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dwq8hncnxX)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/k4-fanbase)
 [![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/k4ryuu)
 [![Revolut](https://img.shields.io/badge/-Revolut-0075EB?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/k4ryuu)
 
