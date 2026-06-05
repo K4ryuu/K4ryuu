@@ -18,6 +18,7 @@ Dynamic full-stack dev in my 20s, crushing Software Engineering at uni while sli
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/-Website-0078D4?style=for-the-badge&logo=globe&logoColor=white)](https://k4ryuu.com)
 [![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/K4ryuu)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/k4-fanbase)
 
