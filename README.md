@@ -1,18 +1,20 @@
 ## About
 
-Dynamic full-stack dev in my 20s, crushing Software Engineering at uni while slinging code at a massive company back home. When I'm not debugging life, I'm modding games and fueling open-source vibes. Always leveling up, chasing the next big challenge!
+Engineer by trade, reverse-engineer by curiosity.
 
-- **Software Engineering Student** @ University
+C# and TypeScript pay the bills. The half I actually enjoy sits lower down: IDA Pro plugins, vtable and signature analysis, and taking compiled binaries apart to see how they really work. Most of my public work is Source Engine and CS2 tooling, all of it open source.
+
 - **Full-stack Developer** @ Government Agency
-- **Hobby Modder & Scripter**
+- **Software Engineering Student** @ University
+- **Reverse engineering** → IDA Pro plugins, binary analysis, Source Engine internals
 
 ## Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,cs,dotnet,python,bash,docker,nginx,linux,mysql,redis,postgresql,mongodb,cloudflare,githubactions,git,cpp,unreal,tauri,prisma,tailwind,vscode&perline=13)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,cs,dotnet,python,bash,docker,nginx,linux,mysql,redis,postgresql,mongodb,cloudflare,githubactions,git,cpp,unreal,tauri,prisma,tailwind&perline=13)](https://skillicons.dev)
 
-<div>
+</div>
 
 ## Links
 
