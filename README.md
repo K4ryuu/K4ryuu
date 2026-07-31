@@ -12,7 +12,7 @@ C# and TypeScript pay the bills. The half I actually enjoy sits lower down: IDA 
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,cs,dotnet,python,bash,docker,nginx,linux,mysql,redis,postgresql,mongodb,cloudflare,githubactions,git,cpp,unreal,tauri,prisma,tailwind&perline=13)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,cs,dotnet,python,bash,docker,nginx,linux,mysql,redis,postgresql,mongodb,cloudflare,githubactions,git,cpp,unreal,tauri,prisma,tailwind,rust&perline=13)](https://skillicons.dev)
 
 </div>
 
